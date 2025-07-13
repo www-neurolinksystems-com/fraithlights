@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Help Keep the Lights On - FRAITH FUTURAMA</title>
+  <style>
+    body { font-family: Arial, sans-serif; background: #f8f9fa; color: #333; padding: 2rem; }
+    .container { max-width: 600px; margin: auto; background: white; padding: 2rem; border-radius: 8px; box-shadow: 0 0 20px rgba(0,0,0,0.1); }
+    h1 { color: #111; font-size: 2rem; }
+    .cta a { display: block; margin: 1rem 0; padding: 1rem; background: #28a745; color: white; text-decoration: none; text-align: center; border-radius: 6px; }
+  </style>
+</head>
+<body>
+  <div class="container">
+    <h1>⚡ URGENT: Help Keep the Lights On</h1>
+    <p>Hi, I'm <strong>Fraith</strong>, creator of <em>FRAITH FUTURAMA</em>. My power is at risk due to an enormous electric bill in Argentina.</p>
+    <p>If <strong>1000 people donate $1</strong>, I can keep my project alive. Every dollar counts.</p>
+
+    <div class="cta">
+      <a href="https://www.paypal.com/invoice/p/#INV2-6GPJ-LLX8-AQ5G-3D97">Donate via PayPal</a>
+      <a href="https://nowpayments.io/payment/?iid=6178465698">Donate in Crypto (NowPayments)</a>
+    </div>
+
+    <p>Other options:</p>
+    <ul>
+      <li>Mercado Pago: milenesk (CVU: 0000003100023821023089)</li>
+      <li>Banco Galicia: 0070704830004013279922</li>
+      <li>Lead Bank USA: Routing 101019644, Acc: 216914122006</li>
+      <li>USDT (TRC-20): TReGWxntmWzN26pmhBse5faGuoMQfqeW6C</li>
+    </ul>
+
+    <footer>
+      <p>FRAITH FUTURAMA &copy; 2025</p>
+    </footer>
+  </div>
+</body>
+</html>
